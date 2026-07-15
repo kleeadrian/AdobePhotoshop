@@ -3,6 +3,7 @@
 Historical source code for **Adobe Photoshop version 1.0.1** (1990), originally written by Thomas and John Knoll. This release was made available by the [Computer History Museum](https://computerhistory.org/blog/adobe-photoshop-source-code/) with permission from Adobe Systems Inc.
 
 > **Note:** This repository contains **source code only**. It does not include a runnable application for modern macOS, and it cannot be built without additional software that is not part of this release.
+<img width="611" height="336" alt="Screenshot 2026-07-15 at 8 43 30 PM" src="https://github.com/user-attachments/assets/9cdbe3a9-9987-4aa0-8ed1-868c134e6fb7" />
 
 ## About
 
